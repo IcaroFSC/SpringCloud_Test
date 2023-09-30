@@ -1,0 +1,7 @@
+@Entity
+public Alunos{
+
+	private int id;
+	private String nome;
+
+}
