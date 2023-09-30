@@ -1,5 +1,5 @@
-Teste alterado.
 
+<<<<<<< HEAD
 
 
 Linha com erro que deve ser revertida.
@@ -7,3 +7,5 @@ Linha com erro que deve ser revertida.
 Alterado diretamente pelo GitHub.
 
 Teste Git Fetch.
+=======
+>>>>>>> dfbc50c (Revert "Teste de Commit para reveter")
