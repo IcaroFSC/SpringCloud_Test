@@ -7,5 +7,6 @@ Linha com erro que deve ser revertida.
 Alterado diretamente pelo GitHub.
 
 Teste Git Fetch.
+Teste Git Rebase.
 =======
 >>>>>>> dfbc50c (Revert "Teste de Commit para reveter")
