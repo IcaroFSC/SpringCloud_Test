@@ -1,5 +1,6 @@
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 
 Linha com erro que deve ser revertida.
@@ -10,3 +11,5 @@ Teste Git Fetch.
 Teste Git Rebase.
 =======
 >>>>>>> dfbc50c (Revert "Teste de Commit para reveter")
+=======
+>>>>>>> 553078c94370cccf53a153c3b434d4fac77a6bfc
